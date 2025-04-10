@@ -51,8 +51,7 @@ Foram realizadas as seguintes análises:
 3. Abra o arquivo pelo Google Colab
 
 ✨ Bibliotecas Utilizadas
-pandas
-
-matplotlib
+- pandas
+- matplotlib
 
 
