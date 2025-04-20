@@ -7,22 +7,6 @@ Projeto de análise de desempenho de quatro lojas fictícias da Alura Store, com
 
 Este projeto tem como objetivo auxiliar o Senhor João, proprietário da rede Alura Store, a tomar uma decisão estratégica sobre qual das quatro lojas fictícias vender. A escolha foi baseada em uma análise detalhada de dados reais de vendas, faturamento, avaliações de clientes e custos logísticos.
 
-📁 Estrutura do Projeto
-alura-store/
-├── dados/
-│   ├── loja_1.csv
-│   ├── loja_2.csv
-│   ├── loja_3.csv
-│   └── loja_4.csv
-├── imagens/
-│   ├── faturamento_por_loja.png
-│   ├── vendas_por_categoria_loja1.png
-│   └── ...
-├── mapas/
-│   └── mapa_vendas.html
-├── Alura_Store_Analise.ipynb
-└── README.md
-
 
 📊 Análises e Gráficos
 Foram realizadas as seguintes análises:
